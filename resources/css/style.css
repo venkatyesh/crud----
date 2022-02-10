@@ -1,0 +1,12 @@
+.error
+{
+    color:red;
+}
+
+.emp-form {
+    display: block;
+}
+
+.emp-form > div {
+    display: flex;
+}
